@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Fcae recogniton
 
-You can use the [editor on GitHub](https://github.com/Iman1221/Iman1221.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+see my [face recognition in GitHub](https://https://github.com/Iman1221/Face-gender-race-recognition-with-webcam) for training a face recogniton system using Arcface loss.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
