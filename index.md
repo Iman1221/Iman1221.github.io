@@ -16,7 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 ![GitHub Logo](/home/hassan/Desktop/C1.jpeg)
-Format: ![Alt Text](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
