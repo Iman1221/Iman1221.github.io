@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<img src="https://github.com/Iman1221/Iman1221.github.io/blob/master/C2.png"
+<img src="https://raw.githubusercontent.com/Iman1221/Iman1221.github.io/master/C2.png"
 height="300">
 
 ```markdown
