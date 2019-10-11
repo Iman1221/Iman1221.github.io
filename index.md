@@ -1,6 +1,6 @@
 ## Fcae recogniton
 
-see my [face recognition project in GitHub](https://https://github.com/Iman1221/Face-gender-race-recognition-with-webcam) for training a face recogniton system using Arcface loss.
+see my [face recognition using webcam project in GitHub](https://https://github.com/Iman1221/Face-gender-race-recognition-with-webcam) for training and testing a face recogniton system.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
