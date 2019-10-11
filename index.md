@@ -2,8 +2,9 @@ Last Updated on October 11, 2019
 
 ## Fcae recognition
 
-In this tutorial, we’ll see how to create and launch a face recognition algorithm in Python. We’ll also train a model for face recognition using Arcface loss.
+In this tutorial, we’ll see how to create and launch a face recognition algorithm in Python. We’ll also train a model for face recognition using SVM classifier and Arcface loss.
 
+Assume you have some image of known people.
 
 see my [face recognition using webcam project in GitHub](https://https://github.com/Iman1221/Face-gender-race-recognition-with-webcam) for training and testing a face recogniton system.
 
@@ -14,21 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](/home/hassan/faceeverything/temp/training_images/Cruise/C1.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
