@@ -14,6 +14,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<img src="https://octodex.github.com/images/jetpacktocat.png"
+height="300">
+
 ```markdown
 ![Jetpacktocat](C2.png)
 ```
