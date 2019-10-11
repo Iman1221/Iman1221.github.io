@@ -1,4 +1,9 @@
-## Fcae recogniton
+Last Updated on October 11, 2019
+
+## Fcae recognition
+
+In this tutorial, we’ll see how to create and launch a face recognition algorithm in Python. We’ll also train a model for face recognition using Arcface loss.
+
 
 see my [face recognition using webcam project in GitHub](https://https://github.com/Iman1221/Face-gender-race-recognition-with-webcam) for training and testing a face recogniton system.
 
