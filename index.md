@@ -1,8 +1,12 @@
 Last Updated on October 11, 2019
 
-## Fcae recognition
 
 In this tutorial, we’ll see how to create and launch a face recognition algorithm in Python. We’ll also train a model for face recognition using SVM classifier and Arcface loss.
+
+<img src="https://github.com/Iman1221/Iman1221.github.io/blob/docs/images.jpeg?raw=true"
+height="300">
+
+## Fcae recognition
 
 Assume you have some image of known people.
 
