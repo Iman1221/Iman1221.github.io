@@ -14,6 +14,9 @@ For example, assume you want to identify 5 people as in bellow:
 <img src="https://github.com/Iman1221/Iman1221.github.io/blob/docs/Screenshot%20from%202019-10-14%2020-43-07.png?raw=true"
 height="150">
 
+I have downloaded three images of each person from google, and put them in the following folders.
+
+In the second step, you should detect faces of every person and put them in another directory. I used MTCNN face detector. It can be done as follows:
 
 
 ### Markdown
