@@ -22,5 +22,14 @@ In the second step, you should detect faces of every person and put them in anot
 ```markdown
 python align_training_images.py
 ```
+## Creating the classfier
+
+After detecting faces, its time to extract features. Because currently one of the best face recognition algorithms is known as arcface, we use it for face recognition. 
+First download the arcface pre-trained model from [here](https://github.com/deepinsight/insightface/wiki/Model-Zoo) and the use train.py from my GitHub repository:
+
+```markdown
+python train.py
+```
+
 
 The site is under constructon ...............
