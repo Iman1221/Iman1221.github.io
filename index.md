@@ -31,5 +31,4 @@ First download the arcface pre-trained model from [here](https://github.com/deep
 python train.py
 ```
 
-
-The site is under constructon ...............
+At the end, you have a file named classifier.pkl in directory named trained_classifier.
