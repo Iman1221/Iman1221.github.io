@@ -7,7 +7,11 @@ In this tutorial, we’ll see how to create and launch a face recognition algori
 height="300">
 
 ### Fcae recognition
-Assume you have some image of known people. 
+Assume you have some image of known people, and you want to identify these people.
+If you want to create a roubust face recognition system, you need to collect as many face images of each person as you can. 
+For example, assume you want to identify 5 people as in bellow:
+<img src="https://github.com/Iman1221/Iman1221.github.io/blob/docs/images.jpeg?raw=true"
+height="300">
 
 
 
